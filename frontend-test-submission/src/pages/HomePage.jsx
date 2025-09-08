@@ -20,7 +20,7 @@ const HomePage = () => {
     <Container maxWidth="lg" sx={{ py: 4 }}>
       <Box sx={{ mb: 4, textAlign: 'center' }}>
         <Typography variant="h3" component="h1" gutterBottom>
-          Affordmed URL Shortener
+          URL Shortener
         </Typography>
         <Typography variant="h6" color="text.secondary">
           Create short, manageable links with custom expiry times and detailed analytics
