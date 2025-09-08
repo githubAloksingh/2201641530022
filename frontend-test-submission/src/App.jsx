@@ -77,7 +77,7 @@ function App() {
                 <Toolbar sx={{ px: 0 }}>
                   <LinkIcon sx={{ mr: 1 }} />
                   <Typography variant="h6" component="div" sx={{ flexGrow: 1, fontWeight: 600 }}>
-                    Affordmed URL Shortener
+                    URL Shortener
                   </Typography>
                   <Button 
                     color="inherit" 
