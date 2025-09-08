@@ -24,5 +24,3 @@ This app allows users to shorten long URLs, manage them, and view usage statisti
 - **Utilities:** Custom persistence & validation helpers  
 
 
-## 📂 Project Structure
-
