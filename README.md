@@ -12,7 +12,7 @@ This app allows users to shorten long URLs, manage them, and view usage statisti
 -  Track URL usage and view statistics  
 -  Built with **React + Vite** for fast performance  
 -  Styled using **Tailwind CSS**  
-   Includes error handling with a custom `ErrorBoundary`  
+-  Includes error handling with a custom `ErrorBoundary`  
 
 ---
 
