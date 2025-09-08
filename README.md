@@ -24,3 +24,15 @@ This app allows users to shorten long URLs, manage them, and view usage statisti
 - **Utilities:** Custom persistence & validation helpers  
 
 
+## ⚙ Installation & Setup
+
+### 1. Clone this repository
+```bash
+git clone https://github.com/githubAloksingh/2201641530022.git
+cd frontend-test-submission
+
+### 2. Install dependencies
+npm install
+
+### 3. Start development server
+npm run dev
