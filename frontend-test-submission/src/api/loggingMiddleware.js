@@ -1,4 +1,4 @@
-// Placeholder for provided logging middleware
+
 class LoggingMiddleware {
   constructor() {
     this.logs = [];
@@ -15,7 +15,7 @@ class LoggingMiddleware {
     
     this.logs.push(logEntry);
     
-    // In a real scenario, this would send to external logging service
+    
     console.log(`[${level.toUpperCase()}] ${message}`, data);
   }
 
